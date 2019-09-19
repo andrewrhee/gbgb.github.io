@@ -2235,3 +2235,7 @@ span.is-active:after {
   font-size: 40px;
   color: white;
 }
+
+.new-message-btn {
+  margin-bottom: 20px;
+}
